@@ -1,5 +1,5 @@
 int a = 5
 int b = 7
-print(a+b)
+print("the sum is ",a+b)
 
 
